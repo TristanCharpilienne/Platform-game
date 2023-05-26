@@ -9,4 +9,11 @@ Touches :
 - Espace: sauter
 Ce jeu ne possède qu'un seul niveau pour l'instant (est en cours de développement).
 
+ps : l'animation du personnage a été prise sur internet.
 
+Journal de bord (dates précises oubliées) :
+jour 1: changement radical de projet pour un jeu de plateforme, recherche d'images pour le jeu
+jour 2: placement du background et des plateformes
+jour 3: animation du stickman trouvé, début du code pour les colisions et la physique du jeu
+jour 4: problèmes réglés notamment celui de plateforme qui ne fonctionnaient pas
+jour 5: Jeu fini, début du niveau 2
